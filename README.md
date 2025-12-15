@@ -1,2 +1,2 @@
-# password-generator
-Need a password?
+# bpm-detector
+Tap for BPM
