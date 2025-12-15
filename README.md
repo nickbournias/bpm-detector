@@ -1,2 +1,2 @@
 # bpm-detector
-Tap for BPM
+Click for BPM!
